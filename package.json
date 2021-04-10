@@ -1,0 +1,22 @@
+{
+  "name": "new_node_project",
+  "version": "1.0.0",
+  "description": "Project to develop from scratch",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "Pawel Kurzynski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquerry": "0.0.1-security"
+  },
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  }
+}
